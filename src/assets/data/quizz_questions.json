@@ -1,0 +1,78 @@
+{
+	"title": "Descubra seu estilo de viagem ideal!",
+	"questions": [
+	{
+	"id": 1,
+	"question": "Qual tipo de destino você prefere?",
+	"options": [
+	{"id": 1, "name": "Cidades vibrantes", "alias": "A"},
+	{"id": 2, "name": "Paisagens naturais", "alias": "B"},
+	{"id": 3, "name": "História e cultura", "alias": "A"},
+	{"id": 4, "name": "Praias paradisíacas", "alias": "B"}
+	]
+	},
+	{
+	"id": 2,
+	"question": "Como você gosta de se locomover durante uma viagem?",
+	"options": [
+	{"id": 1, "name": "Explorar a pé", "alias": "A"},
+	{"id": 2, "name": "De carro ou moto", "alias": "B"},
+	{"id": 3, "name": "Usar transporte público", "alias": "A"},
+	{"id": 4, "name": "Voar para os destinos", "alias": "B"}
+	]
+	},
+	{
+	"id": 3,
+	"question": "Qual é o seu objetivo principal ao viajar?",
+	"options": [
+	{"id": 1, "name": "Relaxar e descansar", "alias": "A"},
+	{"id": 2, "name": "Explorar novas culturas", "alias": "B"},
+	{"id": 3, "name": "Fazer atividades ao ar livre", "alias": "A"},
+	{"id": 4, "name": "Experimentar a gastronomia local", "alias": "B"}
+	]
+	},
+	{
+	"id": 4,
+	"question": "Qual é o seu orçamento para viagens?",
+	"options": [
+	{"id": 1, "name": "Econômico", "alias": "A"},
+	{"id": 2, "name": "Moderado", "alias": "B"},
+	{"id": 3, "name": "Luxuoso", "alias": "A"}
+	]
+	},
+	{
+	"id": 5,
+	"question": "Qual é a sua preferência de clima durante as viagens?",
+	"options": [
+	{"id": 1, "name": "Clima quente", "alias": "A"},
+	{"id": 2, "name": "Clima frio", "alias": "B"},
+	{"id": 3, "name": "Clima tropical", "alias": "A"},
+	{"id": 4, "name": "Clima variado", "alias": "B"}
+	]
+	},
+	{
+	"id": 6,
+	"question": "O que você mais gosta de fazer durante uma viagem?",
+	"options": [
+	{"id": 1, "name": "Visitar museus e pontos turísticos", "alias": "A"},
+	{"id": 2, "name": "Fazer trilhas e atividades ao ar livre", "alias": "B"},
+	{"id": 3, "name": "Relaxar em praias ou piscinas", "alias": "A"},
+	{"id": 4, "name": "Experimentar a culinária local", "alias": "B"}
+	]
+	},
+	{
+	"id": 7,
+	"question": "Com quem você prefere viajar?",
+	"options": [
+	{"id": 1, "name": "Sozinho", "alias": "A"},
+	{"id": 2, "name": "Com amigos", "alias": "B"},
+	{"id": 3, "name": "Com a família", "alias": "A"},
+	{"id": 4, "name": "Com um parceiro(a)", "alias": "B"}
+	]
+	}
+	],
+	"results":{
+	"A": "Seu estilo de viagem ideal é explorar cidades vibrantes, caminhar pelas ruas, descobrir suas riquezas culturais e experimentar a vibrante vida urbana!",
+	"B": "Seu estilo de viagem ideal é se conectar com a natureza!"
+	}
+	}
